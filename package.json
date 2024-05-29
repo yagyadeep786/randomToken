@@ -9,5 +9,9 @@
   },
   "keywords": ["randomtoken","generateToken","generateString"],
   "author": "yagyadeep786",
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/yagyadeep786/randomToken.git"
+  },
   "license": "ISC"
 }
