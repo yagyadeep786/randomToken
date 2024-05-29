@@ -3,7 +3,7 @@
 | How to use the function
 
 ```JavaScript
- import randomToken from "randomToken;
+ import randomToken from "rantoken";
 
   let token= randomToken() // it is taking default an object {length:16,charset:"alphabetic"}
 
