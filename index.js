@@ -1,11 +1,11 @@
 
 function randomToken(obj={
     length:16,
-    charset:"alfabatic"
+    charset:"alphabetic"
 }) {
     console.log(obj);
    var charcterSet={
-        "alfabatic":"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+        "alphabetic":"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
         "numeric":"0123456789",
         "spacial":"@#$%&_",
     }
